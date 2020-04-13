@@ -32,12 +32,15 @@ button {
   padding: 1rem 2rem;
   margin: 5rem 0;
   border: none;
+  outline: none;
+  box-shadow: 0.1rem 0.3rem 2.1rem 0 rgb(233, 235, 135);
   border-radius: 2rem;
   background-color: #171617;
   color: white;
   text-transform: uppercase;
   cursor: pointer;
 }
+
 
 h3 {
   text-transform: uppercase;
